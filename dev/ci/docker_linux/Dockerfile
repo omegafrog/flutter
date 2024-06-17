@@ -12,7 +12,7 @@
 
 # Last manual update 2021-09-24 (changing this comment will re-build image)
 
-FROM debian@sha256:f6957458017ec31c4e325a76f39d6323c4c21b0e31572efa006baa927a160891
+FROM debian@sha256:a92ed51e0996d8e9de041ca05ce623d2c491444df6a535a566dabd5cb8336946
 MAINTAINER Flutter Developers <flutter-dev@googlegroups.com>
 
 RUN apt-get update -y && \
